@@ -1,0 +1,19 @@
+body{ background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(187, 100, 100)
+}
+a {
+    color:brown;
+    text-decoration: none;
+     font-family: Arial, Helvetica, sans-serif;
+}
+a:hover {
+    color: purple;
+} 
+.p{
+    padding:0px 50px;
+}
+h4{
+    color: brown;
+   
+}
