@@ -13,11 +13,17 @@ a:hover {
 .p{
     padding:0px 50px;
 }
-h4{
+h2{
     color: brown;
-   
+   text-align: center;
+}
+
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 video{
-
-   border-left: 200;
+    width: 1000px;
+    margin: 0 auto;
 }
