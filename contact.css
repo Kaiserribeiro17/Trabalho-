@@ -17,3 +17,23 @@ a:hover {
 .p{
     padding:0px 50px;
 }
+ p{
+    text-align: center;
+}
+.bigger{
+    font-size: large;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
